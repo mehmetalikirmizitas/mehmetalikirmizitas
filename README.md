@@ -6,8 +6,8 @@
   height="300"
   width="300" />
 
-- 🔭 I’m currently learning **Flutter**
-- 🌱 I’m currently developing **Flutter**
+- 🔭 I’m currently learning **Kotlin**
+- 🌱 I’m currently developing **Android**
 - 💬 Ask me about **Flutter**
 - 📫 How to reach me **malikirmizitas@outlook.com**
 
