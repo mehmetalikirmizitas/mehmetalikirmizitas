@@ -7,8 +7,8 @@
   width="300" />
 
 - 🔭 I’m currently learning **Kotlin**
-- 🌱 I’m currently developing **Android**
-- 💬 Ask me about **Flutter**
+- 🌱 I’m currently developing **Kotlin**
+- 💬 Ask me about **Kotlin**
 - 📫 How to reach me **malikirmizitas@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
