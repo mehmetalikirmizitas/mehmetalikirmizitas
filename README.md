@@ -6,7 +6,7 @@
   height="300"
   width="300" />
 
-- 🔭 I’m currently learning **Kotlin**
+- 🔭 I’m currently learning **Jetpack Compose**
 - 🌱 I’m currently developing **Kotlin**
 - 💬 Ask me about **Kotlin**
 - 📫 How to reach me **malikirmizitas@outlook.com**
